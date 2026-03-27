@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pdb
+*.egg-info/
+.venv/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# OS
+Thumbs.db
+Desktop.ini
