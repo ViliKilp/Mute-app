@@ -1,0 +1,5 @@
+comtypes
+psutil
+pycaw
+pynput
+wxPython
